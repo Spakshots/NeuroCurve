@@ -1,4 +1,14 @@
 The Project Gutenberg eBook of Little Women; Or, Meg, Jo, Beth, and Amy
+
+spencer.oldoerp@lhsla.org
+sjb2019dpo@gmail.com
+c.oldoerp26@bosco.org
+andrew.alex.sam@gmail.com
+sarah.russell.isaacs@gmail.com
+diaarora0@gmail.com
+deekshakorada@gmail.com
+shriya.bha1234@gmail.com
+atimney25@gmail.com
     
 This ebook is for the use of anyone anywhere in the United States and
 most other parts of the world at no cost and with almost no restrictions
