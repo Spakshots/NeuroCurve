@@ -14,6 +14,8 @@ shriya.bha1234@gmail.com
 atimney25@gmail.com
 
 Sources: Dataset_Ads.csv - https://data.mendeley.com/datasets/wrvjmdtjd9/1
+         ad_click_dataset.csv - https://www.kaggle.com/datasets/marius2303/ad-click-prediction-dataset
+         braincowsmilked.csv - https://www.kaggle.com/datasets/zafarali27/digital-marketing-campaign
     
 This ebook is for the use of anyone anywhere in the United States and
 most other parts of the world at no cost and with almost no restrictions
