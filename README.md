@@ -1,7 +1,7 @@
 The Project Gutenberg eBook of Little Women; Or, Meg, Jo, Beth, and Amy
 
 Group Leader:
-dityapatil@g.ucla.edu
+adityapatil@g.ucla.edu
 -----------------------
 spencer.oldoerp@lhsla.org
 sjb2019dpo@gmail.com
