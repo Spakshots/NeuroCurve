@@ -1,4 +1,6 @@
-1. NeuroCurve
+NeuroCurve
+
+1. Problem Domain 
     -“Navigating risk before memory fades.”
 Rather than just predicting Alzheimer's, this tool maps a patient’s cognitive health trajectory over time. 
 It identifies high-risk profiles based on lifestyle, health history, and cognitive markers,
@@ -7,12 +9,7 @@ It identifies high-risk profiles based on lifestyle, health history, and cogniti
     - this could profile individual's risks over time, rather than just an age of predicted diagnosis
 
 
-
-
-
-
-
-
+2. Cleaning
 
 -Process and Clean Data
     -Drop:
