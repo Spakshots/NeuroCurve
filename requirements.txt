@@ -1,4 +1,6 @@
 pandas
 matplotlib
 numpy
-scikit-learn
+sklearn
+csv
+nbimporter
