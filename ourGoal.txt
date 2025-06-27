@@ -7,6 +7,8 @@ It identifies high-risk profiles based on lifestyle, health history, and cogniti
  offering visual insights into how individual factors (like BMI, sleep, or blood pressure) bend the curve toward cognitive decline.
     - age is the proxy for time
     - this could profile individual's risks over time, rather than just an age of predicted diagnosis
+    - we can also create trajectories which diverge at the patient's current age, ex. we could plot one graph which is their current risk as they cotinue aging,
+     and another graph lets say which graphs their risk as they age if they were to stop smoking
 
 
 2. Cleaning
