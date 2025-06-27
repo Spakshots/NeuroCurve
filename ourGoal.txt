@@ -9,6 +9,8 @@ It identifies high-risk profiles based on lifestyle, health history, and cogniti
     - this could profile individual's risks over time, rather than just an age of predicted diagnosis
     - we can also create trajectories which diverge at the patient's current age, ex. we could plot one graph which is their current risk as they cotinue aging,
      and another graph lets say which graphs their risk as they age if they were to stop smoking
+    - so users could see their risk of alzheimers over time, click a box that represents, if they stopped smoking, and then we
+     could create a regressional model to demonstrate their decline in risk vs if they were to keep smoking
 
 
 2. Cleaning
