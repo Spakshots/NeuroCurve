@@ -7,3 +7,20 @@ It identifies high-risk profiles based on lifestyle, health history, and cogniti
     - this could profile individual's risks over time, rather than just an age of predicted diagnosis
 
 
+
+
+
+
+
+
+
+-Process and Clean Data
+    -Drop:
+        -PatientID
+        -Diabetes
+        -CardiovascularDisease
+        -DoctorInCharge
+        -Depression
+        -SystolicBP
+        -DiastolicBP
+-
