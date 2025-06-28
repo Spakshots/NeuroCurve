@@ -4,7 +4,13 @@ import sys
 
 '''Checking if a package is installed and available in sys.path'''
 def is_package_installed(pkg_name):
-    return importlib.util.find_spec(pkg_name) is not None
+    name_map = {
+        "scikit-learn": "sklearn"
+    }
+    import_name = 'sklearn' if pkg_name == 'scikit-learn' else name_map.get(pkg_name, pkg_name)
+    found = importlib.util.find_spec(import_name) is not None
+    #print(f"Checking: {pkg_name} -> import '{import_name}' => {True if found else False}")
+    return found
 
 '''Installs packages listed in the given requirements.txt file using pip'''
 def install_requirements(requirements_file='requirements.txt'):
@@ -20,3 +26,16 @@ def get_required_packages(requirements_file='requirements.txt'):
                 pkg = line.split('==')[0]
                 packages.append(pkg)
         return packages
+
+def loadup(requirements_file='requirements.txt'):
+    required_packages = get_required_packages(requirements_file)
+    missing = []
+    for pkg in required_packages:
+        if(is_package_installed(pkg) != True):
+            missing.append(pkg)
+    if missing:
+        print(f"Missing packages detected: {missing}")
+        print("Installing missing packages...")
+        install_requirements(requirements_file)
+    else:
+        print("All required packages are already installed. 👍")
