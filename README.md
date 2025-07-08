@@ -16,13 +16,7 @@ atimney25@gmail.com
 
 Sources: Dataset_Ads.csv - (https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset)
     
-This ebook is for the use of anyone anywhere in the United States and
-most other parts of the world at no cost and with almost no restrictions
-whatsoever. You may copy it, give it away or re-use it under the terms
-of the Project Gutenberg License included with this ebook or online
-at www.gutenberg.org. If you are not located in the United States,
-you will have to check the laws of the country where you are located
-before using this eBook.
+@Cap0703 Commits changes to code during class to get higher commit count
 
 Title: Little Women; Or, Meg, Jo, Beth, and Amy
 
