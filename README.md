@@ -1,26 +1,39 @@
-# Meet the Team:
-Learn a little about us.
-## Group Leader:
-adityapatil@g.ucla.edu
+# NeuroCurve 🧠📈
 
------------------------
+**A predictive brain-behavior modeling toolkit** exploring how variables like age, BMI, and functional assessments influence neurological risk over time.
 
-## The Others:
-The best email on this list: andrew.alex.sam@gmail.com
-atimney25@gmail.com
-c.oldoerp26@bosco.org
-sjb2019dpo@gmail.com
-spencer.oldoerp@lhsla.org
+---
 
------------------------
+## 📌 Table of Contents
+- [Overview](#overview)
+- [Key Features](#key-features)
+- [Installation](#installation)
+- [Usage](#usage)
+  - [1. Generate age-functional assessment risk](#1-generate-age-functional-assessment-risk)
+  - [2. Visualize risk curve](#2-visualize-risk-curve)
+- [Model Training](#model-training)
+- [Examples](#examples)
+- [Contributing](#contributing)
+- [Authors](#authors)
+- [License](#license)
 
-## Special Mention:
-sarah.russell.isaacs@gmail.com
-diaarora0@gmail.com
-deekshakorada@gmail.com
-shriya.bha1234@gmail.com
+---
 
+## Overview
+NeuroCurve builds dynamic risk curves for neurological conditions (e.g., Alzheimer’s) by simulating how risk evolves across age and functional assessment scores. It combines supervised learning (e.g., Random Forests) with visualization tools to help interpret risk trajectories for individual patients.
 
-Sources: Dataset_Ads.csv - (https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset)
-    
-@Cap0703 Commits changes to code during class to get higher commit count
+---
+
+## Key Features
+- **Age-Risk Simulation**: Modify patient age and optionally FunctionalAssessment scores to predict risk.
+- **Flexible Feature Support**: Any feature (e.g., BMI, ADL, FunctionalAssessment).
+- **Easy-to-Use API**: Plug in your trained `model` and patient features to visualize risk over time.
+- **Visualization**: Clear, publication-ready plots showing predicted risk progression.
+
+---
+
+## Installation
+```bash
+git clone https://github.com/Spakshots/NeuroCurve.git
+cd NeuroCurve
+pip install -r requirements.txt
