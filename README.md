@@ -38,7 +38,7 @@ Adam Timney
 
 Andrew Alexander Sam
 
-Special thanks to our mentors and professors who helped shape this project.
+Special thanks to Aditya Patil.
 
 ## Installation
 ```bash
