@@ -1,14 +1,19 @@
 # Meet the Team:
+Learn a little about us.
 ## Group Leader:
 adityapatil@g.ucla.edu
+
 -----------------------
+
 ## The Others:
 The best email on this list: andrew.alex.sam@gmail.com
 atimney25@gmail.com
 c.oldoerp26@bosco.org
 sjb2019dpo@gmail.com
 spencer.oldoerp@lhsla.org
+
 -----------------------
+
 ## Special Mention:
 sarah.russell.isaacs@gmail.com
 diaarora0@gmail.com
