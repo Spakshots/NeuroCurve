@@ -20,7 +20,7 @@ NeuroCurve builds dynamic risk curves for neurological conditions (e.g., Alzheim
 ## Key Features
 - **Age-Risk Simulation**: Modify patient age and optionally FunctionalAssessment scores to predict risk.
 - **Flexible Feature Support**: Any feature (e.g., BMI, ADL, FunctionalAssessment).
-- **Easy-to-Use API**: Plug in your trained `model` and patient features to visualize risk over time.
+- **Easy-to-Use API**: Plug in your trained model and patient features to visualize risk over time.
 - **Visualization**: Clear plots showing predicted risk progression.
 
 ---
