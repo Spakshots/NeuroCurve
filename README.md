@@ -37,3 +37,19 @@ NeuroCurve builds dynamic risk curves for neurological conditions (e.g., Alzheim
 git clone https://github.com/Spakshots/NeuroCurve.git
 cd NeuroCurve
 pip install -r requirements.txt
+
+
+## 👥 Authors
+This project was created by:
+
+Brady Spak
+
+Spencer Oeldorp
+
+Conrad Oeldorp
+
+Adam Timney
+
+Andrew "Alex" Sam
+
+Special thanks to our mentors and professors who helped shape this project.
