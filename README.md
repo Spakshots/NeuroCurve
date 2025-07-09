@@ -30,9 +30,9 @@ This project was created by:
 
 Brady Spak
 
-Spencer Oeldorp
+Spencer Oldoerp
 
-Conrad Oeldorp
+Conrad Oldoerp
 
 Adam Timney
 
