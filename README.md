@@ -38,6 +38,7 @@ git clone https://github.com/Spakshots/NeuroCurve.git
 cd NeuroCurve
 pip install -r requirements.txt
 
+```bash
 
 ## 👥 Authors
 This project was created by:
@@ -50,6 +51,6 @@ Conrad Oeldorp
 
 Adam Timney
 
-Andrew "Alex" Sam
+Andrew Alexander Sam
 
 Special thanks to our mentors and professors who helped shape this project.
