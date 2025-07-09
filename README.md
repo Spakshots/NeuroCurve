@@ -7,15 +7,8 @@
 ## 📌 Table of Contents
 - [Overview](#overview)
 - [Key Features](#key-features)
-- [Installation](#installation)
-- [Usage](#usage)
-  - [1. Generate age-functional assessment risk](#1-generate-age-functional-assessment-risk)
-  - [2. Visualize risk curve](#2-visualize-risk-curve)
-- [Model Training](#model-training)
-- [Examples](#examples)
-- [Contributing](#contributing)
 - [Authors](#authors)
-- [License](#license)
+- [Installation](#installation)
 
 ---
 
@@ -32,14 +25,6 @@ NeuroCurve builds dynamic risk curves for neurological conditions (e.g., Alzheim
 
 ---
 
-## Installation
-```bash
-git clone https://github.com/Spakshots/NeuroCurve.git
-cd NeuroCurve
-pip install -r requirements.txt
-
-```bash
-
 ## 👥 Authors
 This project was created by:
 
@@ -54,3 +39,11 @@ Adam Timney
 Andrew Alexander Sam
 
 Special thanks to our mentors and professors who helped shape this project.
+
+## Installation
+```bash
+git clone https://github.com/Spakshots/NeuroCurve.git
+cd NeuroCurve
+pip install -r requirements.txt
+
+
