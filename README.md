@@ -2,16 +2,19 @@
 ## Group Leader:
 adityapatil@g.ucla.edu
 -----------------------
-spencer.oldoerp@lhsla.org
-sjb2019dpo@gmail.com
+## The Others:
+The best email on this list: andrew.alex.sam@gmail.com
+atimney25@gmail.com
 c.oldoerp26@bosco.org
-andrew.alex.sam@gmail.com
-The best email on this list
+sjb2019dpo@gmail.com
+spencer.oldoerp@lhsla.org
+-----------------------
+## Special Mention:
 sarah.russell.isaacs@gmail.com
 diaarora0@gmail.com
 deekshakorada@gmail.com
 shriya.bha1234@gmail.com
-atimney25@gmail.com
+
 
 Sources: Dataset_Ads.csv - (https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset)
     
