@@ -1,10 +1,10 @@
-# NeuroCurve 🧠📈
+# NeuroCurve 🧠
 
 **A predictive brain-behavior modeling toolkit** exploring how variables like age, BMI, and functional assessments influence neurological risk over time.
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 - [Overview](#overview)
 - [Key Features](#key-features)
 - [Authors](#authors)
@@ -25,7 +25,7 @@ NeuroCurve builds dynamic risk curves for neurological conditions (e.g., Alzheim
 
 ---
 
-## 👥 Authors
+## Authors
 This project was created by:
 
 Brady Spak
