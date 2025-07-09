@@ -1,4 +1,5 @@
-Group Leader:
+# Meet the Team:
+## Group Leader:
 adityapatil@g.ucla.edu
 -----------------------
 spencer.oldoerp@lhsla.org
