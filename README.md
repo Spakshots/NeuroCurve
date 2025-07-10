@@ -1,6 +1,6 @@
 # NeuroCurve 🧠
 
-**A predictive brain-behavior modeling toolkit** exploring how variables like age, BMI, and functional assessments influence neurological risk over time.
+**A predictive Alzheimers model** exploring how variables like age, BMI, and functional assessments influence neurological risk over time.
 
 ---
 
@@ -14,30 +14,32 @@
 ---
 
 ## Overview
-NeuroCurve builds dynamic risk curves for neurological conditions (e.g., Alzheimer’s) by simulating how risk evolves across age and functional assessment scores. It combines supervised learning (e.g., Random Forests) with visualization tools to help interpret risk trajectories for individual patients.
+NeuroCurve builds live risk curves which predict risk of Alzheimer's by simulating how improvements in human activities can influence risk. It combines a Neural Network with visualization tools to help interpret risk trajectories for individual patients.
 
 ---
 
 ## Key Features
-- **Age-Risk Simulation**: Modify patient age and optionally FunctionalAssessment scores to predict risk.
-- **Flexible Feature Support**: Any feature (e.g., BMI, ADL, FunctionalAssessment).
-- **Easy-to-Use API**: Plug in your trained model and patient features to visualize risk over time.
-- **Visualization**: Clear plots showing predicted risk progression.
+- **Age-Risk Simulation**: Modify patient age, diet quality, sleep quality, exercice, and/or BMI scores to predict risk.
+- **Easy-to-Use**: Plug in your trained model and patient features to visualize risk over time.
+- **Visualization**: Clear plots drawing predicted risk progression.
 
 ---
 
 ## Authors
 This project was created by:
 
-Brady Spak
-
-Spencer Oldoerp
-
-Conrad Oldoerp
 
 Adam Timney
 
 Andrew Alexander Sam
+
+Brady Spak
+
+Conrad Oldoerp
+
+Spencer Oldoerp
+
+
 
 Special thanks to Aditya Patil.
 
