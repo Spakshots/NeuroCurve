@@ -1,7 +1,10 @@
+graphiz
+IPython
 pandas
 matplotlib
 numpy
+os
 scikit-learn
+scipy
 seaborn
-#csv
-#nbimporter
+xgboost
