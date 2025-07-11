@@ -9,6 +9,7 @@
 - [Key Features](#key-features)
 - [Authors](#authors)
 - [Our Dataset](#our-dataset)
+- [Our Presentation](#our-presentation)
 - [Installation](#installation)
 
 ---
@@ -45,6 +46,9 @@ Special thanks to Aditya Patil.
 
 ## Our Dataset
 https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset
+
+## Our Dataset
+https://docs.google.com/presentation/d/1qYtnMn0xYjmYelXJnwlT1Ov7LQLfRNoZXUMQ1aBQw9c/edit?usp=sharing
 
 ## Installation
 ```bash
