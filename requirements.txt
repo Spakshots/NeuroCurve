@@ -1,10 +1,12 @@
 graphiz
 IPython
-pandas
 matplotlib
 numpy
 os
+pandas
 scikit-learn
 scipy
 seaborn
+sklearn
+time
 xgboost
