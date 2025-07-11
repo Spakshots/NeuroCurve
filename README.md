@@ -47,7 +47,7 @@ Special thanks to Aditya Patil.
 ## Our Dataset
 https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset
 
-## Our Dataset
+## Our Presentation
 https://docs.google.com/presentation/d/1qYtnMn0xYjmYelXJnwlT1Ov7LQLfRNoZXUMQ1aBQw9c/edit?usp=sharing
 
 ## Installation
