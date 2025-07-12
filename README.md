@@ -14,7 +14,7 @@
 
 ---
 
-## Overview
+## Overview 
 NeuroCurve builds live risk curves which predict risk of Alzheimer's by simulating how improvements in human activities can influence risk. It combines a Neural Network with visualization tools to help interpret risk trajectories for individual patients.
 
 ---
